@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Inter:wght@300;400&family=Karla:ital@0;1&family=Orbitron:wght@400;700&display=swap');
+
+body {
+    margin: 0;
+    width: 550px;
+    height: 550px;
+    background-color: #1F2937;
+    font-family: Karla;
+    
+}
+
+h1{
+    color:#FFFF;
+    font-size: 40px;
+    margin: 115px 144px 0px 52px;
+}
+h2{
+       color:#D5D4D8;
+          font-size: 20px;
+          font-weight: regular;
+          margin: 10px 126px 0px 52px;
+          
+}
+h3{
+    width: 211px;
+    height: 39px;
+    background-color: #273549;
+    color: #10b981;
+    text-align: center;
+}
+
+input{
+    
+    width: 211px;
+    height: 39px;
+    background-color: #273549;
+    color: #10b981;
+    
+    
+    
+}
+span{
+   color: #10b981;
+}
+
+button{
+    font-size: 16px;
+    background-color: #10b981;
+    width:  191px;
+    font-weight: medium;
+    height: 42px;
+    border: none;
+    color: #FFFF;
+    font-family: Inter;
+    margin: 60px 324px 0px 52px;
+}
+#passwordSect{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 52px 0px 0px 0px;
+    text-align: center;
+}
